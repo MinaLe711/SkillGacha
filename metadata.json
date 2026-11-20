@@ -1,0 +1,6 @@
+{
+  "name": "SkillGacha AI",
+  "description": "Gamified daily skill development platform powered by AI coaching, grounded learning resources, and vocal practice analysis.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
